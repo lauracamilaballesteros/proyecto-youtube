@@ -7,6 +7,11 @@ de trending en youtube.
 
 Que incluyen las fases de muestreo, exploración, modificación, modelado y evaluación.
 
-Se espera poder realizar una campaña de marketing para lanzamiento de una marca relacionada con ciencia y tecnología.
+Se espera poder realizar una campaña de marketing para lanzamiento de una marca relacionada con ciencia y tecnología en youtube.
+
+En el archivo proyecto.ipyb se encuentran los análisis y creación de modelos.
+
+
+
 
 
